@@ -1,0 +1,28 @@
+{
+  "name": "iplexus",
+  "version": "0.0.0",
+  "authors": "rohit agarwal",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "angular": "1.5.10",
+    "angular-ui-router": "^0.3.1",
+    "angular-cookies": "1.5.10",
+    "angular-sanitize": "1.5.10",
+    "angular-route": "1.5.10",
+    "angular-bootstrap": "2.3.2",
+    "ngstorage": "^0.3.10",
+    "toastr": "^2.1.2",
+    "restangular": "^1.5.2",
+    "angular-animate": "1.5.10",
+    "angular-filter": "^0.5.11",
+    "flipclock": "FlipClock#^0.7.7",
+    "angular-messages": "1.5.10",
+    "angular-long-press": "^0.3.2",
+    "d3": "^4.4.0"
+  },
+  "resolutions": {
+    "angular": "1.5.10",
+    "jquery": "^1.9.0"
+  }
+}

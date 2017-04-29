@@ -1,2 +1,2 @@
-# Screen_making
-HTML CSS/SCSS 
+# my_portfolio
+All about me and my achievement
